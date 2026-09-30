@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->## Education
 
 I completed my undergraduate degree in Mathematics before joining the MSc in Statistics at Imperial College London.
+Find out more about my course on the [Imperial MSc in Statistics homepage](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/).

@@ -1,18 +1,14 @@
-## Hi there 👋
+# Hi, I'm Penny 👋
 
-<!--
-**PennnnyYao/PennnnyYao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my repository! I'm currently studying Creative Computing and this is where I'm keeping my work as I learn about coding, Git and GitHub. I'm especially interested in web design, and I'm looking forward to building small projects along the way.
 
-Here are some ideas to get you started:
+Outside of study, I enjoy photography and trying new cafés, and I'm based in London. I like learning by doing, so expect this space to grow as I try things out, make mistakes and figure them out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## A few things about me
+
+- 📚 Currently learning: Markdown, Git and GitHub
+- 💡 Interested in: web design, UI/UX and digital art
+- 🎯 Goal this term: build and publish my first personal website
 -->## Education
 
 I completed my undergraduate degree in Mathematics before joining the MSc in Statistics at Imperial College London.
